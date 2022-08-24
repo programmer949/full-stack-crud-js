@@ -1,2 +1,3 @@
-# full-stack-crud-js
-This is Full Stack CRUD app which is written by React as a front end and Node JS as a Back end
+# Full Stack CRUD App.
+For making app work you need to have MySQL installed on your system
+In server folder you can customize database settings for your database port, password, host, name.
